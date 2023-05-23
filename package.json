@@ -1,0 +1,33 @@
+{
+  "name": "typemaster-pre-launch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claire-ca/typemaster-pre-launch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claire-ca/typemaster-pre-launch/issues"
+  },
+  "homepage": "https://github.com/claire-ca/typemaster-pre-launch#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.3",
+    "cssnano": "^6.0.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.23",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3"
+  }
+}
